@@ -1,6 +1,6 @@
 import { Outlet } from 'react-router'
 import './App.css'
-import Navbar from './layouts/Navbar'
+import Navbar from './components/ui/layouts/Navbar'
 
 
 function App() {
